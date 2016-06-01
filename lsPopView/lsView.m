@@ -5,7 +5,7 @@
 //  Created by 刘森 on 16/5/25.
 //  Copyright © 2016年 tuhui－03. All rights reserved.
 //
-
+//  第一次提交 github
 #import "lsView.h"
 #define DURATION 0.2
 @interface lsView ()
